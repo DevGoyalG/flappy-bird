@@ -1,0 +1,46 @@
+.footer {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: #555;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8); /* Optional: Adds slight background for better readability */
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds subtle shadow */
+  }
+
+
+.footer {
+    font-weight: 500;
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
+
+a:link {
+  color: rgb(240, 97, 121);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(240, 97, 121);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
